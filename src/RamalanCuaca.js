@@ -229,18 +229,12 @@ const styles = StyleSheet.create({
     margin: 10
   },
   isiTengah: {
-    //flex: 1,
     height: '60%',
-    //backgroundColor: '#81C784',
-    //marginTop: 10,
     marginLeft: 10,
     marginRight: 10,
     marginBottom: 10,
-    //justifyContent: 'space-around',
-    //alignItems: 'center',
     flexDirection: 'row',
     flexWrap: "wrap",
-    //padding: 5
   },
   buttonStyle: {
     flex: 1,
@@ -249,7 +243,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   textBoxStyle: {
-    //flex: 1,
     marginTop: 10,
     marginLeft: 10,
     marginRight: 10,
